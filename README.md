@@ -7,17 +7,28 @@ Core Philosophy
 Project Cerberus operates on the principle of relentless persistence. By leveraging a tri-modular predator system—The Brain (Teamserver), The Gatekeeper (Listener), and The Guardian (Implant)—the system doesn't just establish a connection; it reaps systemic control (the Harvest) and enforces inescapable presence (the Vertex) with the fury of the daughters of Nyx.
 
 Architectural Breakdown
+
 keresvertex_projectcerberus/
+
 ├── core/
+
 ├── listener/
+
 ├── teamserver/
+
 ├── beacon/
+
 ├── plugins/
+
 ├── operator_interface/
+
 ├── [redacted]/
+
 ├── [redacted]/
+
 ├── [redacted]/
-└── main.py
+
+└── main.py(Hidden)
 
 Key Capabilities
 Tri-Modular Predation: Separates logic, relay, and execution into three distinct entities to maximize operational security and infrastructure longevity.
